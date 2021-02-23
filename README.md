@@ -2,13 +2,13 @@
 
 ## Overview 
 
-In this imbalanced classification project, we used data from a 2020 survey to analyse the views of young Londoners (aged 16-18) regarding the decision to suspend free travel for under-18s and then classified participants based on whether or not they approved of the decison.
+In this imbalanced classification project, I used data from a 2020 survey to analyse the views of young Londoners (aged 16-18) regarding the decision to suspend free travel for under-18s and then classified participants based on whether or not they approved of the decision.
 
 ## Summary of Findings
 
 **Below are some of the key findings from the analysis:**
 
-- An overwhelming majority of young Londoners (>95%) disapproved of the plans to end free transport while a small percentage either appproved of the plans (\~2%) or were unsure (\~2%).
+- An overwhelming majority of young Londoners (>95%) disapproved of the plans to end free transport while a small percentage either approved of the plans (\~2%) or were unsure (\~2%).
 
 
 - Males were more than twice as likely to approve of the decision to end free transport than females (1.62% vs 0.69% of total number of participants respectively).
@@ -20,7 +20,7 @@ In this imbalanced classification project, we used data from a 2020 survey to an
 - Over 95% of young Londoners consider free transport either important or very important.
 
 
-- Travel, freedom, school and money were some of the most common words used when particpants were asked to describe what free travel meant to them.
+- Travel, freedom, school and money were some of the most common words used when participants were asked to describe what free travel meant to them.
 
 
 - Nearly three quarters of participants take two or more forms of transport to get to school/college.

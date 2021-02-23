@@ -2,7 +2,7 @@
 
 ## Overview 
 
-In this imbalanced classification project, I used data from a 2020 survey to analyse the views of young Londoners (aged 16-18) regarding the decision to suspend free travel for under-18s and then classified participants based on whether or not they approved of the decision.
+Imbalanced classification project using data which explores the views of young Londoners (aged 16-18) regarding the decision to suspend free travel for under-18s.
 
 ## Summary of Findings
 

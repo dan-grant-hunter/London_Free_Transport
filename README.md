@@ -54,6 +54,8 @@ Below are a few highlights from the analysis.
 
 ![alt text](images/wordcloud.png "Wordcloud")  
 
-![alt text](images/class_distribution.png "Class Distribution Chart") 
+**Question: Do you approve or disapprove the decision to cut free travel for under-18s in London?**
+
+![alt text](images/class_distribution.png "Class Distribution Chart")   
 
 ![alt text](images/activities.png "Activities Graph") 

@@ -56,6 +56,8 @@ Below are a few highlights from the analysis.
 
 **Question: Do you approve or disapprove the decision to cut free travel for under-18s in London?**
 
-![alt text](images/class_distribution.png "Class Distribution Chart")   
+![alt text](images/class_distribution.png "Class Distribution Chart")  
+
+**Impact of cutting free travel on different activities:**
 
 ![alt text](images/activities.png "Activities Graph") 
